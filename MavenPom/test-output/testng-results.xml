@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14157" started-at="2018-03-28T06:36:31Z" finished-at="2018-03-28T06:36:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14157" started-at="2018-03-28T06:36:31Z" finished-at="2018-03-28T06:36:45Z">
+      <class name="com.cb.pom.MavenPom.Base.BaseClass">
+        <test-method status="PASS" signature="DriverClass()[pri:1, instance:com.cb.pom.MavenPom.Base.BaseClass@27efef64]" name="DriverClass" duration-ms="13561" started-at="2018-03-28T12:06:31Z" finished-at="2018-03-28T12:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClass -->
+        <test-method status="PASS" signature="TakeScreenShot()[pri:2, instance:com.cb.pom.MavenPom.Base.BaseClass@27efef64]" name="TakeScreenShot" duration-ms="540" started-at="2018-03-28T12:06:44Z" finished-at="2018-03-28T12:06:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TakeScreenShot -->
+      </class> <!-- com.cb.pom.MavenPom.Base.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
